@@ -1,2 +1,2 @@
 # package-tracker
-Chrome extension to assist with tracking packages
+Chrome extension allowing users to easily track shipments
